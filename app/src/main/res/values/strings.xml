@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notepad </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank_doc"></string>
+    <string name="dialog_title">File isn\'t saved</string>
+    <string name="dialog_msg">Save it now or you can lose changes</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_unsave">Unsave</string>
+</resources>
